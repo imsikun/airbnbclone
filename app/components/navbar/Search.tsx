@@ -35,7 +35,7 @@ const Search = () => {
         >
           Anywhere
         </div>
-        <div className="hidden sm:block text-sm font-semibold px-6 border-x- flex-1 text-center">
+        <div className="hidden sm:block text-sm font-semibold px-6 border-x-1 flex-1 text-center">
           {' '}
           Any Week
         </div>
